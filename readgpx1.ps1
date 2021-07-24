@@ -1,7 +1,7 @@
 # extract data from gpx file
 
 # name of gpx file to be read
-$gpxfile = "D:\Docs\PowerShell\gpx\readgpx1.gpx"
+$gpxfile = "readgpx1.gpx"
 
 # the [xml] "accelerator" causes the content of the file to
 # be treated as XML - which GPX is
