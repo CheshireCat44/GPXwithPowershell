@@ -10,3 +10,5 @@ cd GPXwithPowershell
 ```
 
 The output should be as in the file readgpx1-output.txt
+
+If you have PowerShell installed in linux, the example works there if you are at a PowerShell prompt.
