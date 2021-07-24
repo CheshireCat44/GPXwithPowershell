@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0"
+ creator="BT747 V2.1.4" version="1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS-20180713</name><trk><name>#33927# 2018-07-13T09:00:32.000Z</name><trkseg>
+<trkpt lat="54.689472" lon="-1.201398" >
+<ele>29.5</ele>
+<time>2018-07-13T09:00:32.000Z</time>
+<course>329.64896</course>
+<speed>0.0012</speed>
+<name>trkpt-2018-07-13T09:00:32.000Z</name>
+<type>TD</type>
+<fix>3d</fix>
+<hdop>0.91</hdop>
+</trkpt>
+<trkpt lat="54.689640" lon="-1.201032" >
+<ele>12.6</ele>
+<time>2018-07-13T09:05:32.000Z</time>
+<course>350.85559</course>
+<speed>0.0070</speed>
+<name>trkpt-2018-07-13T09:05:32.000Z</name>
+<type>T</type>
+<fix>3d</fix>
+<hdop>0.79</hdop>
+</trkpt>
+<trkpt lat="54.689438" lon="-1.202187" >
+<ele>8.4</ele>
+<time>2018-07-13T09:10:32.000Z</time>
+<course>255.40570</course>
+<speed>1.7997</speed>
+<name>trkpt-2018-07-13T09:10:32.000Z</name>
+<type>T</type>
+<fix>3d</fix>
+<hdop>0.79</hdop>
+</trkpt>
+<trkpt lat="54.689299" lon="-1.203746" >
+<ele>8.1</ele>
+<time>2018-07-13T09:11:46.000Z</time>
+<course>275.05475</course>
+<speed>1.8015</speed>
+<name>trkpt-2018-07-13T09:11:46.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>1.02</hdop>
+</trkpt>
+<trkpt lat="54.689214" lon="-1.205297" >
+<ele>7.8</ele>
+<time>2018-07-13T09:12:47.000Z</time>
+<course>271.45065</course>
+<speed>1.7271</speed>
+<name>trkpt-2018-07-13T09:12:47.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>0.84</hdop>
+</trkpt>
+<trkpt lat="54.689625" lon="-1.206677" >
+<ele>0.2</ele>
+<time>2018-07-13T09:13:55.000Z</time>
+<course>358.08282</course>
+<speed>1.5974</speed>
+<name>trkpt-2018-07-13T09:13:55.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>0.93</hdop>
+</trkpt>
+</trkseg></trk>
+<trk><name>#33933# 2018-07-13T11:45:21.000Z</name><trkseg>
+<trkpt lat="54.577149" lon="-1.245331" >
+<ele>50.8</ele>
+<time>2018-07-13T11:45:21.000Z</time>
+<course>31.12223</course>
+<speed>1.7923</speed>
+<name>trkpt-2018-07-13T11:45:21.000Z</name>
+<type>TD</type>
+<fix>3d</fix>
+<hdop>0.96</hdop>
+</trkpt>
+<trkpt lat="54.577999" lon="-1.244812" >
+<ele>36.2</ele>
+<time>2018-07-13T11:45:33.000Z</time>
+<course>87.90846</course>
+<speed>8.7262</speed>
+<name>trkpt-2018-07-13T11:45:33.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>0.94</hdop>
+</trkpt>
+<trkpt lat="54.577279" lon="-1.243843" >
+<ele>35.0</ele>
+<time>2018-07-13T11:45:43.000Z</time>
+<course>164.47789</course>
+<speed>10.7690</speed>
+<name>trkpt-2018-07-13T11:45:43.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>0.96</hdop>
+</trkpt>
+<trkpt lat="54.576353" lon="-1.243699" >
+<ele>36.5</ele>
+<time>2018-07-13T11:45:54.000Z</time>
+<course>146.52061</course>
+<speed>9.8524</speed>
+<name>trkpt-2018-07-13T11:45:54.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>0.96</hdop>
+</trkpt>
+<trkpt lat="54.575126" lon="-1.242622" >
+<ele>31.4</ele>
+<time>2018-07-13T11:46:06.000Z</time>
+<course>152.82199</course>
+<speed>10.4256</speed>
+<name>trkpt-2018-07-13T11:46:06.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>0.99</hdop>
+</trkpt>
+<trkpt lat="54.574322" lon="-1.241846" >
+<ele>29.5</ele>
+<time>2018-07-13T11:46:17.000Z</time>
+<course>148.75908</course>
+<speed>6.4919</speed>
+<name>trkpt-2018-07-13T11:46:17.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>0.96</hdop>
+</trkpt>
+<trkpt lat="54.573537" lon="-1.240994" >
+<ele>6.3</ele>
+<time>2018-07-13T11:47:14.000Z</time>
+<course>147.60179</course>
+<speed>7.9008</speed>
+<name>trkpt-2018-07-13T11:47:14.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>1.25</hdop>
+</trkpt>
+<trkpt lat="54.573195" lon="-1.239483" >
+<ele>10.0</ele>
+<time>2018-07-13T11:47:28.000Z</time>
+<course>96.20702</course>
+<speed>6.8692</speed>
+<name>trkpt-2018-07-13T11:47:28.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>1.38</hdop>
+</trkpt>
+<trkpt lat="54.573158" lon="-1.237911" >
+<ele>10.5</ele>
+<time>2018-07-13T11:48:23.000Z</time>
+<course>98.33706</course>
+<speed>3.4269</speed>
+<name>trkpt-2018-07-13T11:48:23.000Z</name>
+<type>D</type>
+<fix>3d</fix>
+<hdop>1.58</hdop>
+</trkpt>
+</trkseg></trk>
+</gpx>
